@@ -17,7 +17,6 @@ public class Main {
             grade = scanner.nextInt();
         }
 
-
         student.printReport();
     }
 }

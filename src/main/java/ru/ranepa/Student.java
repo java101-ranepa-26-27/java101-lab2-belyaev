@@ -25,7 +25,6 @@ public class Student {
         return (double) sum / grades.size();
     }
 
-
     String getStatus() {
         double average = getAverage();
         if (average >= 4.5) {
