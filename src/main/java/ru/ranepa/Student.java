@@ -38,6 +38,7 @@ public class Student {
         }
     }
 
+
     void printReport() {
         System.out.println("Имя: " + name);
         System.out.println("Оценки: " + grades);
